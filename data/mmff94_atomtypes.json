@@ -1,0 +1,1091 @@
+{
+  "13": {
+    "number": 13,
+    "symbols": [
+      "BR"
+    ],
+    "names": [
+      "BROMINE"
+    ]
+  },
+  "91": {
+    "number": 91,
+    "symbols": [
+      "BR-"
+    ],
+    "names": [
+      "BROMIDE ANION"
+    ]
+  },
+  "96": {
+    "number": 96,
+    "symbols": [
+      "CA+2"
+    ],
+    "names": [
+      "DIPOSITIVE CALCIUM"
+    ]
+  },
+  "1": {
+    "number": 1,
+    "symbols": [
+      "CR"
+    ],
+    "names": [
+      "ALKYL CARBON, SP3"
+    ]
+  },
+  "2": {
+    "number": 2,
+    "symbols": [
+      "C=C",
+      "CSP2"
+    ],
+    "names": [
+      "VINYLIC CARBON, SP2",
+      "GENERIC SP2 CARBON"
+    ]
+  },
+  "3": {
+    "number": 3,
+    "symbols": [
+      "C=O",
+      "C=N",
+      "CGD",
+      "C=OR",
+      "C=ON",
+      "CONN",
+      "COO",
+      "COON",
+      "COOO",
+      "C=OS",
+      "C=S",
+      "C=SN",
+      "CSO2",
+      "CS=O",
+      "CSS",
+      "C=P"
+    ],
+    "names": [
+      "GENERAL CARBONYL CARBON",
+      "SP2 CARBON IN C=N",
+      "GUANIDINE CARBON, DOUBLY BONDED TO N",
+      "KETONE OR ALDEHYDE CARBONYL CARBON",
+      "AMIDE CARBONYL CARBON",
+      "UREA CARBONYL CARBON",
+      "CARBOXYLIC ACID OR ESTER CARBONYL CARBON",
+      "CARBAMATE CARBONYL CARBON",
+      "C ARBONIC ACID OR ESTER CARBONYL CARBON",
+      "THIOESTER CARBONYL CARBON, DOUBLE BONDED TO O",
+      "THIOESTER CARBON, DOUBLY BONDED TO S",
+      "THIOAMIDE, CARBON, DOUBLY BONDED TO S",
+      "CARBON IN >C=SO2",
+      "CARBON IN >C=S=O (SULFINYL GROUP)",
+      "THIOCARBOXYLIC ACID OR ESTER CARBONYL CARBON",
+      "CARBON DOUBLE BONDED TO PHOSPHOROUS"
+    ]
+  },
+  "4": {
+    "number": 4,
+    "symbols": [
+      "CSP",
+      "=C="
+    ],
+    "names": [
+      "ACETYLENIC CARBON",
+      "ALLENIC CARBON"
+    ]
+  },
+  "20": {
+    "number": 20,
+    "symbols": [
+      "CR4R"
+    ],
+    "names": [
+      "CARBON IN 4-MEMBERED RINGS"
+    ]
+  },
+  "22": {
+    "number": 22,
+    "symbols": [
+      "CR3R"
+    ],
+    "names": [
+      "CARBON IN A 3-MEMBERED RING"
+    ]
+  },
+  "30": {
+    "number": 30,
+    "symbols": [
+      "CE4R"
+    ],
+    "names": [
+      "OLEFINIC CARBON IN 4-MEMBERED RINGS"
+    ]
+  },
+  "37": {
+    "number": 37,
+    "symbols": [
+      "CB"
+    ],
+    "names": [
+      "CARBON AS IN BENZENE, PYRROLE"
+    ]
+  },
+  "41": {
+    "number": 41,
+    "symbols": [
+      "CO2M",
+      "CS2M"
+    ],
+    "names": [
+      "CARBOXYLATE ANION CARBON (base charge -0.5)",
+      "CARBON IN THIOCARBOXYLATE ANION"
+    ]
+  },
+  "57": {
+    "number": 57,
+    "symbols": [
+      "CGD+",
+      "CNN+"
+    ],
+    "names": [
+      "GUANIDINIUM CARBON",
+      "C IN +N=C-N RESONANCE STRUCTURES"
+    ]
+  },
+  "60": {
+    "number": 60,
+    "symbols": [
+      "C%"
+    ],
+    "names": [
+      "ISONITRILE CARBON"
+    ]
+  },
+  "63": {
+    "number": 63,
+    "symbols": [
+      "C5A"
+    ],
+    "names": [
+      "ALPHA CARBON IN 5-MEMBERED HETEROAROMATIC RING"
+    ]
+  },
+  "64": {
+    "number": 64,
+    "symbols": [
+      "C5B"
+    ],
+    "names": [
+      "BETA CARBON IN 5-MEMBERED HETEROAROMATIC RING"
+    ]
+  },
+  "78": {
+    "number": 78,
+    "symbols": [
+      "C5"
+    ],
+    "names": [
+      "GENERAL CARBON IN 5-MEMBERED HETEROAROMATIC RING"
+    ]
+  },
+  "80": {
+    "number": 80,
+    "symbols": [
+      "CIM+"
+    ],
+    "names": [
+      "C IN N-C-N IN IMIDAZOLIUM ION"
+    ]
+  },
+  "12": {
+    "number": 12,
+    "symbols": [
+      "CL"
+    ],
+    "names": [
+      "CHLORINE"
+    ]
+  },
+  "77": {
+    "number": 77,
+    "symbols": [
+      "CLO4"
+    ],
+    "names": [
+      "CHLORINE IN PERCHLORATE ANION, CLO4(-)"
+    ]
+  },
+  "90": {
+    "number": 90,
+    "symbols": [
+      "CL-"
+    ],
+    "names": [
+      "CHLORIDE ANION"
+    ]
+  },
+  "97": {
+    "number": 97,
+    "symbols": [
+      "CU+1"
+    ],
+    "names": [
+      "MONOPOSITIVE COPPER"
+    ]
+  },
+  "98": {
+    "number": 98,
+    "symbols": [
+      "CU+2"
+    ],
+    "names": [
+      "DIPOSITIVE COPPER"
+    ]
+  },
+  "11": {
+    "number": 11,
+    "symbols": [
+      "F"
+    ],
+    "names": [
+      "FLUORINE"
+    ]
+  },
+  "89": {
+    "number": 89,
+    "symbols": [
+      "F-"
+    ],
+    "names": [
+      "FLUORIDE ANION"
+    ]
+  },
+  "5": {
+    "number": 5,
+    "symbols": [
+      "HC",
+      "HSI"
+    ],
+    "names": [
+      "H  ATTACHED TO C",
+      "H ATTACHED TO SI"
+    ]
+  },
+  "21": {
+    "number": 21,
+    "symbols": [
+      "HOR",
+      "HO",
+      "HOM"
+    ],
+    "names": [
+      "HYDROGEN IN ALCOHOLS",
+      "GENERAL H ON OXYGEN",
+      "HYDROGEN IN HYDROXIDE ANION"
+    ]
+  },
+  "23": {
+    "number": 23,
+    "symbols": [
+      "HNR",
+      "H3N",
+      "HPYL",
+      "HNOX",
+      "HNM",
+      "HN"
+    ],
+    "names": [
+      "H-N(SP3)",
+      "H-N(SP3), AMMONIA",
+      "H-N IN PYRROLE",
+      "H-N IN IN A N-OXIDE",
+      "H ON DICOORD, NEGATIVELY CHARGED NITROGEN",
+      "GENERAL H ON NITROGEN"
+    ]
+  },
+  "24": {
+    "number": 24,
+    "symbols": [
+      "HOCO",
+      "HOP"
+    ],
+    "names": [
+      "H-O IN CARBOXYLIC ACIDS",
+      "HYDROGEN ON OXYGEN ATTACHED TO PHOSPHOROUS"
+    ]
+  },
+  "27": {
+    "number": 27,
+    "symbols": [
+      "HN=N",
+      "HN=C"
+    ],
+    "names": [
+      "AZO HYDROGEN",
+      "IMINE HYDROGEN"
+    ]
+  },
+  "28": {
+    "number": 28,
+    "symbols": [
+      "HNCO",
+      "HNCS",
+      "HNCC",
+      "HNCN",
+      "HNNC",
+      "HNNN",
+      "HNSO",
+      "HNPO",
+      "HNC%",
+      "HSP2"
+    ],
+    "names": [
+      "AMIDE HYDROGEN",
+      "THIOAMIDE HYDROGEN",
+      "H-N IN ENAMINES",
+      "H-N IN H-N-C=N",
+      "H-N IN H-N-N=C",
+      "H-N IN H-N-N=N",
+      "H-N IN SULFONAMIDE",
+      "H-N IN PHOSPHONAMIDE",
+      "HYDROGEN ON N ATTACHED TO TRIPLY BONDED CARBON",
+      "GENERAL H ON SP2 NITROGEN"
+    ]
+  },
+  "29": {
+    "number": 29,
+    "symbols": [
+      "HOCC",
+      "HOCN"
+    ],
+    "names": [
+      "H-O IN ENOLS AND PHENOLS",
+      "H-O IN HO-C=N"
+    ]
+  },
+  "31": {
+    "number": 31,
+    "symbols": [
+      "HOH"
+    ],
+    "names": [
+      "HYDROGEN IN H2O"
+    ]
+  },
+  "33": {
+    "number": 33,
+    "symbols": [
+      "HOS"
+    ],
+    "names": [
+      "H ON OXYGEN ATTACHED TO SULFUR"
+    ]
+  },
+  "36": {
+    "number": 36,
+    "symbols": [
+      "HNR+",
+      "HIM+",
+      "HPD+",
+      "HNN+",
+      "HNC+",
+      "HGD+",
+      "HN5+"
+    ],
+    "names": [
+      "H ON QUATERNARY NITROGEN",
+      "H ON IMIDAZOLIUM-TYPE NITROGEN",
+      "H ON PROTONATED PYRIDINE NITROGEN",
+      "H ON AMIDINIUM-TYPE NITROGEN",
+      "H ON PROTONATED IMINE NITROGEN",
+      "H ON GUANIDINIUM-TYPE NITROGEN",
+      "H ON N5+, N5A+ OR N5B+"
+    ]
+  },
+  "50": {
+    "number": 50,
+    "symbols": [
+      "HO+"
+    ],
+    "names": [
+      "HYDROGEN ON O+ OXYGEN"
+    ]
+  },
+  "52": {
+    "number": 52,
+    "symbols": [
+      "HO=+"
+    ],
+    "names": [
+      "HYDROGEN ON OXENIUM OXYGEN"
+    ]
+  },
+  "71": {
+    "number": 71,
+    "symbols": [
+      "HS",
+      "HS=N",
+      "HP"
+    ],
+    "names": [
+      "H ATTACHED TO DIVALENT, DICOORDINATE S",
+      "H ATTACHED TO TETRAVALENT, TRICOODR S DBL BONDED",
+      "H ATTACHED TO TRI- OR TETRACOORDINATE PHOSPHORUS"
+    ]
+  },
+  "14": {
+    "number": 14,
+    "symbols": [
+      "I"
+    ],
+    "names": [
+      "IODINE"
+    ]
+  },
+  "87": {
+    "number": 87,
+    "symbols": [
+      "FE+2"
+    ],
+    "names": [
+      "IRON +2 CATION"
+    ]
+  },
+  "88": {
+    "number": 88,
+    "symbols": [
+      "FE+3"
+    ],
+    "names": [
+      "IROM +3 CATION"
+    ]
+  },
+  "92": {
+    "number": 92,
+    "symbols": [
+      "LI+"
+    ],
+    "names": [
+      "LITHIUM CATION"
+    ]
+  },
+  "99": {
+    "number": 99,
+    "symbols": [
+      "MG+2"
+    ],
+    "names": [
+      "DIPOSITIVE MAGNESIUM CATION"
+    ]
+  },
+  "8": {
+    "number": 8,
+    "symbols": [
+      "NR"
+    ],
+    "names": [
+      "NITROGEN IN ALIPHATIC AMINES"
+    ]
+  },
+  "9": {
+    "number": 9,
+    "symbols": [
+      "N=C",
+      "N=N"
+    ],
+    "names": [
+      "NITROGEN IN IMINES",
+      "NITROGEN IN AZO COMPOUNDS"
+    ]
+  },
+  "10": {
+    "number": 10,
+    "symbols": [
+      "NC=O",
+      "NC=S",
+      "NN=C",
+      "NN=N"
+    ],
+    "names": [
+      "NITROGEN IN AMIDES",
+      "NITROGEN IN N-C=S, THIOAMIDE",
+      "NITROGEN IN N-N=C",
+      "NITROGEN IN N-N=N"
+    ]
+  },
+  "34": {
+    "number": 34,
+    "symbols": [
+      "NR+"
+    ],
+    "names": [
+      "QUATERNARY NITROGEN, SP3, POSITIVELY CHARGED"
+    ]
+  },
+  "38": {
+    "number": 38,
+    "symbols": [
+      "NPYD"
+    ],
+    "names": [
+      "NITROGEN, AS IN PYRIDINE"
+    ]
+  },
+  "39": {
+    "number": 39,
+    "symbols": [
+      "NPYL"
+    ],
+    "names": [
+      "NITROGEN, AS IN PYRROLE"
+    ]
+  },
+  "40": {
+    "number": 40,
+    "symbols": [
+      "NC=C",
+      "NC=N",
+      "NC=P",
+      "NC%C"
+    ],
+    "names": [
+      "NITROGEN ON N-C=C",
+      "NITROGEN IN N-C=N",
+      "NITROGEN IN N-C=P",
+      "NITROGEN ATTACHED TO C-C TRIPLE BOND"
+    ]
+  },
+  "42": {
+    "number": 42,
+    "symbols": [
+      "NSP"
+    ],
+    "names": [
+      "NITROGEN, TRIPLE BONDED"
+    ]
+  },
+  "43": {
+    "number": 43,
+    "symbols": [
+      "NSO2",
+      "NSO3",
+      "NPO2",
+      "NPO3",
+      "NC%N"
+    ],
+    "names": [
+      "NITROGEN IN SULFONAMIDES",
+      "NITROGEN IN SULFONAMIDES, THREE O'S ON S",
+      "NITROGEN IN PHOSPHONAMIDES",
+      "NITROGEN IN PHOSPHONAMIDES, THREE O'S ON P",
+      "NITROGEN ATTACHED TO CYANO GROUP"
+    ]
+  },
+  "45": {
+    "number": 45,
+    "symbols": [
+      "NO2",
+      "NO3"
+    ],
+    "names": [
+      "NITRO GROUP NITROGEN",
+      "NITRATE GROUP NITROGEN"
+    ]
+  },
+  "46": {
+    "number": 46,
+    "symbols": [
+      "N=O"
+    ],
+    "names": [
+      "NITROSO NITROGEN"
+    ]
+  },
+  "47": {
+    "number": 47,
+    "symbols": [
+      "NAZT"
+    ],
+    "names": [
+      "TERMINAL NITROGEN IN AZIDO OR DIAZO GROUP"
+    ]
+  },
+  "48": {
+    "number": 48,
+    "symbols": [
+      "NSO"
+    ],
+    "names": [
+      "DIVALENT NITROGEN REPLACING MONOVALENT O IN SO2 G"
+    ]
+  },
+  "53": {
+    "number": 53,
+    "symbols": [
+      "=N="
+    ],
+    "names": [
+      "NITROGEN IN C=N=N OR -N=N=N"
+    ]
+  },
+  "54": {
+    "number": 54,
+    "symbols": [
+      "N+=C",
+      "N+=N"
+    ],
+    "names": [
+      "POSITIVELY CHARGED IMINIUM NITROGEN",
+      "POSITIVELY CHARGED NITROGEN DOUBLE-BONDED TO N"
+    ]
+  },
+  "55": {
+    "number": 55,
+    "symbols": [
+      "NCN+"
+    ],
+    "names": [
+      "N IN +N=C-N RESONANCE STRUCTURES - FORMAL CHARGE=1/2"
+    ]
+  },
+  "56": {
+    "number": 56,
+    "symbols": [
+      "NGD+"
+    ],
+    "names": [
+      "GUANIDINIUM-TYPE NITROGEN - FORMAL CHARGE=1/3"
+    ]
+  },
+  "58": {
+    "number": 58,
+    "symbols": [
+      "NPD+"
+    ],
+    "names": [
+      "PYRIDINIUM-TYPE NITROGEN - FORMAL CHARGE=1"
+    ]
+  },
+  "61": {
+    "number": 61,
+    "symbols": [
+      "NR%"
+    ],
+    "names": [
+      "ISONITRILE NITROGEN [FC = 0] OR DIAZO NITROGEN [F"
+    ]
+  },
+  "62": {
+    "number": 62,
+    "symbols": [
+      "NM"
+    ],
+    "names": [
+      "DEPROTONATED SULFONAMIDE N-; FORMAL CHARGE=-1"
+    ]
+  },
+  "65": {
+    "number": 65,
+    "symbols": [
+      "N5A"
+    ],
+    "names": [
+      "ALPHA AROM HETEROCYCLIC 5-RING  NITROGEN"
+    ]
+  },
+  "66": {
+    "number": 66,
+    "symbols": [
+      "N5B"
+    ],
+    "names": [
+      "BETA AROM HETEROCYCLIC 5-RING  NITROGEN"
+    ]
+  },
+  "67": {
+    "number": 67,
+    "symbols": [
+      "N2OX"
+    ],
+    "names": [
+      "SP2-HYDRIDIZED N-OXIDE NITROGEN"
+    ]
+  },
+  "68": {
+    "number": 68,
+    "symbols": [
+      "N3OX"
+    ],
+    "names": [
+      "SP3-HYDRIDIZED N-OXIDE NITROGEN"
+    ]
+  },
+  "69": {
+    "number": 69,
+    "symbols": [
+      "NPOX"
+    ],
+    "names": [
+      "PYRIDINE N-OXIDE NITROGEN"
+    ]
+  },
+  "76": {
+    "number": 76,
+    "symbols": [
+      "N5M"
+    ],
+    "names": [
+      "NEGATIVELY CHARGED N IN, E.G, TRI- OR TETRAZOLE A"
+    ]
+  },
+  "79": {
+    "number": 79,
+    "symbols": [
+      "N5"
+    ],
+    "names": [
+      "GENERAL NITROGEN IN 5-MEMBERED HETEROCYCLIC RING"
+    ]
+  },
+  "81": {
+    "number": 81,
+    "symbols": [
+      "NIM+",
+      "N5A+",
+      "N5B+",
+      "N5+"
+    ],
+    "names": [
+      "IMIDAZOLIUM-TYPE NITROGEN - FORMAL CHARGE=1/2",
+      "POSITIVE N5A NITROGEN - FORMAL CHARGE=1",
+      "POSITIVE N5B NITROGEN - FORMAL CHARGE=1",
+      "POSITIVE N5 NITROGEN - FORMAL CHARGE=1"
+    ]
+  },
+  "82": {
+    "number": 82,
+    "symbols": [
+      "N5AX",
+      "N5BX",
+      "N5OX"
+    ],
+    "names": [
+      "N-OXIDE NITROGEN IN 5-RING ALPHA POSITION",
+      "N-OXIDE NITROGEN IN 5-RING BETA POSITION",
+      "N-OXIDE NITROGEN IN GENERAL 5-RING POSITION"
+    ]
+  },
+  "6": {
+    "number": 6,
+    "symbols": [
+      "OR",
+      "OC=O",
+      "OC=C",
+      "OC=N",
+      "OC=S",
+      "ONO2",
+      "ON=O",
+      "OSO3",
+      "OSO2",
+      "OSO",
+      "OS=O",
+      "-OS",
+      "OPO3",
+      "OPO2",
+      "OPO",
+      "-OP",
+      "-O-"
+    ],
+    "names": [
+      "ALCOHOL OR ETHER OXYGEN",
+      "ESTER OR CARBOXYLIC ACID -O-",
+      "ENOLIC OR PHENOLIC OXYGEN",
+      "DIVALENT OXYGEN",
+      "THIOESTER OR THIOACID -O-",
+      "DIVALENT NITRATE \"ETHER\" OXYGEN",
+      "DIVALENT NITRITE \"ETHER\" OXYGEN",
+      "DIVALENT OXYGEN ATTACHED TO SULFUR",
+      "DIVALENT OXYGEN ATTACHED TO SULFUR",
+      "DIVALENT OXYGEN ATTACHED TO SULFUR",
+      "DIVALENT OXYGEN ATTACHED TO SULFOXIDE SULFUR",
+      "GENERAL DIVALENT OX ATTACHED TO S",
+      "DIVALENT OXYGEN ATTACHED TO PHOSPHOROUS",
+      "DIVALENT OXYGEN ATTACHED TO PHOSPHOROUS",
+      "DIVALENT OXYGEN ATTACHED TO PHOSPHOROUS",
+      "DIVALENT OXYGEN ATTACHED TO PHOSPHOROUS",
+      "GENERAL DIVALENT O"
+    ]
+  },
+  "7": {
+    "number": 7,
+    "symbols": [
+      "O=C",
+      "O=CN",
+      "O=CR",
+      "O=CO",
+      "O=N",
+      "O=S",
+      "O=S="
+    ],
+    "names": [
+      "GENERAL C=O",
+      "CARBONYL OXYGEN, AMIDES",
+      "CARBONYL OXYGEN, ALDEHYDES AND KETONES",
+      "CARBONYL OXYGEN, CARBOXYLIC ACIDS AND ESTERS",
+      "NITROSO OXYGEN",
+      "O=S IN SULFOXIDES",
+      "O=S ON SULFUR DOUBLY BONDED TO, E.G., CARBON"
+    ]
+  },
+  "32": {
+    "number": 32,
+    "symbols": [
+      "O2CM",
+      "OXN",
+      "O2N",
+      "O2NO",
+      "O3N",
+      "O-S",
+      "O2S",
+      "O3S",
+      "O4S",
+      "OSMS",
+      "OP",
+      "O2P",
+      "O3P",
+      "O4P",
+      "O4CL"
+    ],
+    "names": [
+      "OXYGEN IN CARBOXYLATE ANION (base charge -0.25)",
+      "N-OXIDE OXYGEN",
+      "NITRO OXYGEN",
+      "NITRO-GROUP OXYGEN IN NITRATE",
+      "NITRATE ANION OXYGEN",
+      "SINGLE TERMINAL OXYGEN ON TETRACOORD SULFUR",
+      "TERMINAL O-S IN SULFONES AND SULFONAMIDES",
+      "TERMINAL O IN SULFONATES",
+      "TERMINAL O IN SO4(-3)",
+      "TERM O IN THIOSULFINATE ANION - FORMAL CHARGE=-0.",
+      "TERMINAL O IN PHOSPHOXIDES",
+      "TERMINAL O IN PHOSPHINATES",
+      "TERMINAL OXYGEN IN PHOSPHONATES",
+      "TERMINAL OXYGEN IN PHOSPHATES AND PHOSPHODIESTERS",
+      "OXYGEN IN CLO4(-) ANION - FORMAL CHARGE=-0.25"
+    ]
+  },
+  "35": {
+    "number": 35,
+    "symbols": [
+      "OM",
+      "OM2"
+    ],
+    "names": [
+      "ALKOXIDE OXYGEN, NEGATIVELY CHARGED",
+      "OXIDE OXYGEN ON SP2 CARBON, NEGATIVELY CHARGED"
+    ]
+  },
+  "49": {
+    "number": 49,
+    "symbols": [
+      "O+"
+    ],
+    "names": [
+      "POSITIVELY CHARGED OXONIUM (TRICOORDINATE) OXYGEN"
+    ]
+  },
+  "51": {
+    "number": 51,
+    "symbols": [
+      "O=+"
+    ],
+    "names": [
+      "POSITIVELY CHARGED OXENIUM (DICOORDINATE) OXYGEN"
+    ]
+  },
+  "59": {
+    "number": 59,
+    "symbols": [
+      "OFUR"
+    ],
+    "names": [
+      "AROMATIC OXYGEN AS IN FURAN"
+    ]
+  },
+  "70": {
+    "number": 70,
+    "symbols": [
+      "OH2"
+    ],
+    "names": [
+      "OXYGEN ON WATER"
+    ]
+  },
+  "25": {
+    "number": 25,
+    "symbols": [
+      "PO4",
+      "PO3",
+      "PO2",
+      "PO",
+      "PTET"
+    ],
+    "names": [
+      "PHOSPHOROUS IN PHOSPHATES AND PHOSPHODIESTERS",
+      "TETRACOORDINATE P WITH THREE ATTACHED OXYGENS",
+      "TETRACOORDINATE P WITH TWO ATTACHED OXYGENS",
+      "TETRACOORDINATE P WITH ONE ATTACHED OXYGEN",
+      "GENERAL TETRACOORDINATE PHOSPHORUS"
+    ]
+  },
+  "26": {
+    "number": 26,
+    "symbols": [
+      "P"
+    ],
+    "names": [
+      "TRICOORDINATE P, AS IN PHOSPHINES"
+    ]
+  },
+  "75": {
+    "number": 75,
+    "symbols": [
+      "-P=C"
+    ],
+    "names": [
+      "PHOSPHOROUS DOUBLY BONDED TO CARBON"
+    ]
+  },
+  "94": {
+    "number": 94,
+    "symbols": [
+      "K+"
+    ],
+    "names": [
+      "POTASSIUM CATION"
+    ]
+  },
+  "19": {
+    "number": 19,
+    "symbols": [
+      "SI"
+    ],
+    "names": [
+      "SILICON"
+    ]
+  },
+  "93": {
+    "number": 93,
+    "symbols": [
+      "NA+"
+    ],
+    "names": [
+      "SODIUM CATION"
+    ]
+  },
+  "15": {
+    "number": 15,
+    "symbols": [
+      "S"
+    ],
+    "names": [
+      "SULFUR IN THIOETHERS AND MERCAPTANS"
+    ]
+  },
+  "16": {
+    "number": 16,
+    "symbols": [
+      "S=C"
+    ],
+    "names": [
+      "TERMINAL SULFUR DOUBLY BONDED TO CARBON"
+    ]
+  },
+  "17": {
+    "number": 17,
+    "symbols": [
+      "S=O",
+      ">S=N"
+    ],
+    "names": [
+      "SULFUR IN SULFOXIDES",
+      "SULFUR, TRICOORD, DOUBLY BONDED TO N"
+    ]
+  },
+  "18": {
+    "number": 18,
+    "symbols": [
+      "SO2",
+      "SO2N",
+      "SO3",
+      "SO4",
+      "=SO2",
+      "SNO"
+    ],
+    "names": [
+      "SULFUR IN SULFONES",
+      "SULFUR IN SULFONAMIDES",
+      "SULFONATE SULFUR",
+      "SULFATE SULFUR",
+      "SULFONE SULPHER DOUBLY BONDED TO CARBON",
+      "SULFUR IN NITROGEN ANALOG OF A SULFONE"
+    ]
+  },
+  "44": {
+    "number": 44,
+    "symbols": [
+      "STHI"
+    ],
+    "names": [
+      "SULFUR AS IN THIOPHENE"
+    ]
+  },
+  "72": {
+    "number": 72,
+    "symbols": [
+      "S-P",
+      "S2CM",
+      "SM",
+      "SSMO"
+    ],
+    "names": [
+      "TERMINAL SULFUR BONDED TO PHOSPHORUS",
+      "TERMINAL SULFUR IN THIOCARBOXYLATE ANION",
+      "TERMINAL SULFUR - FORMAL CHARGE=-1",
+      "TERMINAL SULFUR IN THIOSULFINATE GROUP"
+    ]
+  },
+  "73": {
+    "number": 73,
+    "symbols": [
+      "SO2M",
+      "SSOM"
+    ],
+    "names": [
+      "SULFUR IN NEGATIVELY CHARGED SULFINATE GROUP",
+      "TRICOORD SULFUR IN THIOSULFINATE GROUP"
+    ]
+  },
+  "74": {
+    "number": 74,
+    "symbols": [
+      "=S=O"
+    ],
+    "names": [
+      "SULFINYL SULFUR, EG. IN C=S=O"
+    ]
+  },
+  "95": {
+    "number": 95,
+    "symbols": [
+      "ZINC",
+      "ZN+2"
+    ],
+    "names": [
+      "DIPOSITIVE ZINC",
+      "DIPOSITIVE ZINC"
+    ]
+  }
+}
