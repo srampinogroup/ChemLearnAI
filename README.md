@@ -2,10 +2,7 @@
 
 ## Project
 
-This project is linked to the article "Tracing the Physical Roots of
-Chemical Concepts through Artificial Intelligence" by Erwan Privat,
-Giovanni Parolin, Ajay M. S. Rawat, Antonino Polimeno, and Sergio
-Rampino.
+Full details in publication: Erwan Privat, Giovanni Parolin, Ajay M. S. Rawat, Antonino Polimeno, Sergio Rampino, Tracing the Physical Roots of Chemical Concepts through Artificial Intelligence. _ChemRxiv_. 13 October 2026. DOI: https://doi.org/10.26434/chemrxiv.15010384/v1
 
 ## Setup
 
